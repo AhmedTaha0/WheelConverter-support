@@ -6,6 +6,10 @@
 
 <p align="center">A free menu-bar app for macOS: drag a file, tap a key, drop it on a format.<br>This page is where you report a problem or suggest something.</p>
 
+<p align="center">
+  <img src="demo.gif" width="720" alt="Drag a file, tap Shift, drop it on a format: the converted copy lands next to the original.">
+</p>
+
 ## 🐞 Found a bug?
 
 [Open a bug report](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=bug_report.yml). Say what you did, what you expected and what happened instead, and paste the log (see below). Have a quick look at the [open issues](https://github.com/AhmedTaha0/WheelConverter-support/issues) first; if yours is already there, add a 👍 and any detail that is missing.
