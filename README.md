@@ -4,7 +4,7 @@
 
 <h1 align="center">Wheel Converter support</h1>
 
-<p align="center">A free menu-bar app for macOS: drag a file, tap a key, drop it on a format.<br>This page is where you report a problem or suggest something.</p>
+<p align="center"><b>Always free.</b> A menu-bar app for macOS: drag a file, tap a key, drop it on a format.<br>This page is where you report a problem or suggest something.</p>
 
 <p align="center">
   <img src="demo.gif" width="720" alt="Drag a file, tap Shift, drop it on a format: the converted copy lands next to the original.">
@@ -32,7 +32,7 @@ Open the app window from the menu-bar icon, go to the **About** tab and scroll t
 
 <h1 align="center">دعم عجلة التحويل</h1>
 
-<p align="center">تطبيق مجاني لشريط القوائم في ماك: اسحب ملف، اضغط زرار، ارميه على الصيغة اللي عايزها.<br>الصفحة دي للإبلاغ عن مشكلة أو اقتراح فكرة.</p>
+<p align="center"><b>مجاني دائمًا.</b> تطبيق لشريط القوائم في ماك: اسحب ملف، اضغط زرار، ارميه على الصيغة اللي عايزها.<br>الصفحة دي للإبلاغ عن مشكلة أو اقتراح فكرة.</p>
 
 ## 🐞 لقيت مشكلة؟
 
