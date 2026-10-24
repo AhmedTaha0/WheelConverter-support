@@ -36,7 +36,7 @@ body:
     id: log
     attributes:
       label: Log from the About tab
-      description: Paste the last lines of the log. It has no file names or paths.
+      description: "About tab → Log box → ⌘A, ⌘C, paste here. It has no folders or user name, only file names."
       render: text
   - type: checkboxes
     id: repeat
