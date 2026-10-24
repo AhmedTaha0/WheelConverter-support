@@ -1,25 +1,49 @@
-# Wheel Converter support
+<p align="center">
+  <img src="icon.png" width="96" alt="Wheel Converter icon">
+</p>
 
-Wheel Converter is a free menu-bar app for macOS: drag a file, tap a key, drop it on a format. This is the place to report a problem or suggest something.
+<h1 align="center">Wheel Converter support</h1>
 
-**Found a bug?** [Open a bug report](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=bug_report.yml). Please include the version from the About tab and the log shown there. It never contains your file names or paths.
+<p align="center">A free menu-bar app for macOS: drag a file, tap a key, drop it on a format.<br>This page is where you report a problem or suggest something.</p>
 
-**Have an idea?** [Suggest a feature or a format](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=feature_request.yml).
+## 🐞 Found a bug?
 
-Before opening a new issue, have a quick look at the [existing ones](https://github.com/AhmedTaha0/WheelConverter-support/issues): someone may have reported it already, and you can add a thumbs-up there.
+[Open a bug report](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=bug_report.yml). Say what you did, what you expected and what happened instead, and paste the log (see below). Have a quick look at the [open issues](https://github.com/AhmedTaha0/WheelConverter-support/issues) first; if yours is already there, add a 👍 and any detail that is missing.
+
+## 💡 Have an idea?
+
+[Suggest a feature or a format](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=feature_request.yml). One or two lines are enough.
+
+## 📋 The log, and why we ask for it
+
+Open the app window from the menu-bar icon, go to the **About** tab and scroll to **Log**. It holds the last 500 lines of what the app did: the tools it found at launch, and every conversion or action that failed, with the reason the tool gave.
+
+- It never includes your folders or user name. Full paths are replaced by the file name only.
+- To copy it: click inside the Log box, press **⌘A** then **⌘C**, and paste it into the "Log" field of the bug report.
+- For us, the log says which tool failed and why, so we can usually reproduce the problem without asking you more questions.
 
 ---
 
 <div dir="rtl">
 
-# دعم عجلة التحويل
+<h1 align="center">دعم عجلة التحويل</h1>
 
-عجلة التحويل تطبيق مجاني لشريط القوائم في ماك: اسحب ملف، اضغط زرار، ارميه على الصيغة اللي عايزها. الصفحة دي للإبلاغ عن مشكلة أو اقتراح فكرة.
+<p align="center">تطبيق مجاني لشريط القوائم في ماك: اسحب ملف، اضغط زرار، ارميه على الصيغة اللي عايزها.<br>الصفحة دي للإبلاغ عن مشكلة أو اقتراح فكرة.</p>
 
-**لقيت مشكلة؟** [افتح بلاغ](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=bug_report.yml). من فضلك اكتب رقم الإصدار من تبويب About والسجل اللي ظاهر فيه. السجل ما فيهوش أسماء ملفاتك ولا مساراتها.
+## 🐞 لقيت مشكلة؟
 
-**عندك فكرة؟** [اقترح ميزة أو صيغة](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=feature_request.yml).
+[افتح بلاغ](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=bug_report.yml). اكتب عملت إيه، وكنت متوقع إيه، وحصل إيه بدل كده، والصق السجل (الشرح تحت). بص الأول بسرعة على [البلاغات المفتوحة](https://github.com/AhmedTaha0/WheelConverter-support/issues)، لو مشكلتك موجودة ضيف 👍 وأي تفصيلة ناقصة.
 
-قبل ما تفتح بلاغ جديد، بص بسرعة على [البلاغات الموجودة](https://github.com/AhmedTaha0/WheelConverter-support/issues)، ممكن حد يكون كتبها قبلك وتضيف إعجاب هناك.
+## 💡 عندك فكرة؟
+
+[اقترح ميزة أو صيغة](https://github.com/AhmedTaha0/WheelConverter-support/issues/new?template=feature_request.yml). سطر أو اتنين كفاية.
+
+## 📋 السجل، وليه بنطلبه
+
+افتح نافذة التطبيق من أيقونة شريط القوائم، وروح لتبويب **About** وانزل لـ **Log**. فيه آخر 500 سطر من اللي التطبيق عمله: الأدوات اللي لقاها عند التشغيل، وكل تحويل أو أكشن فشل مع السبب اللي الأداة قالته.
+
+- السجل ما فيهوش مجلداتك ولا اسم المستخدم. المسار الكامل بيتبدل باسم الملف بس.
+- عشان تنسخه: دوس جوه صندوق Log، وبعدين **⌘A** ثم **⌘C**، والصقه في خانة «Log» في البلاغ.
+- بالنسبة لنا، السجل بيقول أنهي أداة فشلت وليه، فغالبًا نقدر نعيد المشكلة من غير ما نسألك أسئلة زيادة.
 
 </div>
