@@ -11,20 +11,14 @@ body:
       placeholder: "1.0 (12)"
     validations:
       required: true
-  - type: dropdown
-    id: platform
+  - type: input
+    id: system
     attributes:
       label: System
-      options:
-        - macOS
-        - Windows
+      description: macOS or Windows, with its version.
+      placeholder: "macOS 26.1"
     validations:
       required: true
-  - type: input
-    id: os_version
-    attributes:
-      label: System version
-      placeholder: "macOS 26.1"
   - type: textarea
     id: what
     attributes:
