@@ -1,0 +1,17 @@
+name: Feature or format request
+description: A format you miss, or something the wheels should do.
+title: "[Idea] "
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: One or two lines are enough. If it is a format, say from what to what.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: When would you use it?
+      description: The situation where this would save you time.
