@@ -1,0 +1,46 @@
+name: Bug report
+description: Something did not work, or a conversion came out wrong.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: From the About tab, for example 1.0 (12).
+      placeholder: "1.0 (12)"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: System
+      options:
+        - macOS
+        - Windows
+    validations:
+      required: true
+  - type: input
+    id: os_version
+    attributes:
+      label: System version
+      placeholder: "macOS 26.1"
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead. Which file type, which format or action.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log from the About tab
+      description: Paste the last lines of the log. It has no file names or paths.
+      render: text
+  - type: checkboxes
+    id: repeat
+    attributes:
+      label: Does it happen every time?
+      options:
+        - label: Yes, every time with the same file type
